@@ -1,0 +1,5 @@
+export const MAIN = '/'
+export const REG = '/reg'
+export const AUTH = '/auth'
+export const ADDCAT = '/addcat'
+export const ADDLIST = '/list'
